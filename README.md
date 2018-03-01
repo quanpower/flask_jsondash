@@ -5,10 +5,10 @@
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/christabor/flask_jsondash/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/christabor/flask_jsondash/?branch=master)
 [![Build Status](https://scrutinizer-ci.com/g/christabor/flask_jsondash/badges/build.png?b=master)](https://scrutinizer-ci.com/g/christabor/flask_jsondash/build-status/master)
 [![Build Status](https://travis-ci.org/christabor/flask_jsondash.svg?branch=master)](https://travis-ci.org/christabor/flask_jsondash)
-[![Code Issues](https://www.quantifiedcode.com/api/v1/project/df272477c0ff423ca51fa4106c1e9ebc/badge.svg)](https://www.quantifiedcode.com/app/project/df272477c0ff423ca51fa4106c1e9ebc)
 [![Code Health](https://landscape.io/github/christabor/flask_jsondash/master/landscape.svg?style=flat)](https://landscape.io/github/christabor/flask_jsondash/master)
 [![Coverage Status](https://coveralls.io/repos/github/christabor/flask_jsondash/badge.svg?branch=master)](https://coveralls.io/github/christabor/flask_jsondash?branch=master)
 [![PyPI version](https://badge.fury.io/py/flask_jsondash.svg)](https://badge.fury.io/py/flask_jsondash)
+[![Support via Gratipay](https://cdn.rawgit.com/gratipay/gratipay-badge/2.3.0/dist/gratipay.svg)](https://gratipay.com/flask-jsondash/)
 
 Easily configurable, chart dashboards from any arbitrary API endpoint. JSON config only. Ready to go.
 
