@@ -7,7 +7,7 @@ from setuptools import setup
 SRCDIR = '.'
 folder = os.path.abspath(os.path.dirname(__file__))
 test_requirements = [
-    'pytest==3.8.0',
+    'pytest==3.9.3',
     'pytest-cov==2.6.0',
     'pyquery==1.4.0',
     'requests_mock',
@@ -20,10 +20,10 @@ extras_require = {
     ]
 }
 requirements = [
-    'click==6.7',
+    'click==7.0',
     'Flask',
     'cerberus',
-    'pymongo==3.7.1',
+    'pymongo==3.7.2',
 ]
 
 
